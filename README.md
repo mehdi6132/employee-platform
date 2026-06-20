@@ -12,7 +12,11 @@ The cluster spans 3 availability zones in eu-west-1 on EKS with 3 t3.medium work
 
 ## Screenshots
 
+The HR portal shows all active employees and their workspace status. HR can provision or deprovision a workspace with one click.
+
 ![HR Portal](images/workspace-employees.png)
+
+Each employee gets a workspace pre-configured for their department. Marcus Wright was added as Infrastructure, so his workspace automatically comes with Docker, PuTTY, Wireshark, kubectl, Terraform, and AWS CLI — no manual setup required.
 
 ![Infrastructure Workspace](images/marcuswright.png)
 
