@@ -10,6 +10,12 @@ Employees connect via OpenVPN and access their workspace through a browser at th
 
 The cluster spans 3 availability zones in eu-west-1 on EKS with 3 t3.medium worker nodes. Grafana and Prometheus provide real-time monitoring of workspace status and resource usage.
 
+## Screenshots
+
+![HR Portal](images/workspace-employees.png)
+
+![Infrastructure Workspace](images/marcuswright.png)
+
 ## Tech stack
 
 | Component | Technology |
