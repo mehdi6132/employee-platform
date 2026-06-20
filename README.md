@@ -16,7 +16,7 @@ The HR portal shows all active employees and their workspace status. HR can prov
 
 ![HR Portal](images/workspace-employees.png)
 
-Each employee gets a workspace pre-configured for their department. Marcus Wright was added as Infrastructure, so his workspace automatically comes with Docker, PuTTY, Wireshark, kubectl, Terraform, and AWS CLI — no manual setup required.
+Each employee gets a workspace pre-configured for their department. Marcus Wright was added as Infrastructure, so his workspace automatically comes with Docker, PuTTY, Wireshark, kubectl, Terraform, and AWS CLI. No manual setup required.
 
 ![Infrastructure Workspace](images/marcuswright.png)
 
