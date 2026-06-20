@@ -20,7 +20,11 @@ Each employee gets a workspace pre-configured for their department. Marcus Wrigh
 
 ![Infrastructure Workspace](images/marcuswright.png)
 
+Grafana tracks all active workspaces across the cluster, including which EKS node they run on and their current status.
+
 ![Monitoring Overview](images/monitoring-1.png)
+
+Per-workspace CPU usage and pod restart history. Alerts fire if a workspace exceeds 80% CPU for more than 10 minutes.
 
 ![Monitoring Details](images/monitoring-2.png)
 
