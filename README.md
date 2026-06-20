@@ -16,6 +16,10 @@ The cluster spans 3 availability zones in eu-west-1 on EKS with 3 t3.medium work
 
 ![Infrastructure Workspace](images/marcuswright.png)
 
+![Monitoring Overview](images/monitoring-1.png)
+
+![Monitoring Details](images/monitoring-2.png)
+
 ## Tech stack
 
 | Component | Technology |
